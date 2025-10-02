@@ -12,7 +12,7 @@ Description: E-statistics (energy) tests and statistics for multivariate and uni
              multivariate goodness-of-fit tests, k-groups and hierarchical clustering based on energy 
              distance, testing for multivariate normality, distance components (disco) for non-parametric 
              analysis of structured data, and other energy statistics/methods are implemented.
-Imports: Rcpp (>= 0.12.6), stats, boot, gsl
+Imports: Rcpp (>= 0.12.6), stats, boot
 LinkingTo: Rcpp
 Suggests: 
     MASS,
